@@ -1,13 +1,11 @@
 ## Welcome to MyLifeAsCoding
+Press View on Github button to view all of my repositories.
 
-You'll find all my programming projects here. I hope you enjoy them!
+### About Me
+I am Esther, a student currently studying in SKH Lam Woo Memorial Secondary School. My favourite subjects are Mathematics, Programming and Science. I also like English very much. I usually do skateboarding and learn new things in my free time. 
 
 ### Programming Languages
 I know how to code with Python, C++, C and JavaScript (beginner in JavaScript), HTML and Bash (a bit of it).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/esther-cs/mylifeascoding/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 Instagram Profile: @mylifeascoding
