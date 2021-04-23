@@ -2,29 +2,8 @@
 
 You'll find all my programming projects here. I hope you enjoy them!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Programming Languages
+I know how to code with Python, C++, C and JavaScript (beginner in JavaScript), HTML and Bash (a bit of it).
 
 ### Jekyll Themes
 
